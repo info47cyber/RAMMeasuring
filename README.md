@@ -2,6 +2,8 @@
 
 This is a Python-based desktop application designed to monitor real-time RAM usage, including detailed memory statistics and a graphical representation of RAM usage. The application is built using **Tkinter** for the GUI and **Matplotlib** for the dynamic graph.
 
+<img width="516" alt="image" src="https://github.com/user-attachments/assets/5f758c86-3b89-46cb-9e13-2aa979d4f5d9">
+
 ---
 
 ## Features
