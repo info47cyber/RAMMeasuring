@@ -1,4 +1,4 @@
-# Advanced RAM Monitoring Tool version 1.0.0
+# GUI RAMMeasuring Tool version 1.0.0
 
 This is a Python-based desktop application designed to monitor real-time RAM usage, including detailed memory statistics and a graphical representation of RAM usage. The application is built using **Tkinter** for the GUI and **Matplotlib** for the dynamic graph.
 
@@ -39,7 +39,7 @@ pip install psutil matplotlib
 2. Ensure the required libraries are installed (see **Requirements** above).
 3. Run the application:
    ```bash
-   python advanced_ram_monitor.py
+   python main.py
    ```
 4. View real-time RAM usage details and warnings in the GUI.
 
